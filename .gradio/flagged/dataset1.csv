@@ -1,0 +1,4 @@
+Kilomètres parcourus (Kms_Driven),Prix actuel (Present_Price en $),Type de carburant (Fuel_Type),Type de vendeur (Seller_Type),Transmission,Âge de la voiture (en années),Résultat,timestamp
+122,4000,Diesel,Individual,Automatic,12,Prix estimé de la voiture : 17294.25 $,2025-01-13 23:47:43.565102
+0,0,Petrol,Dealer,Manual,0,,2025-01-14 00:22:27.424388
+,,,,,,,2025-01-14 00:35:08.847190
